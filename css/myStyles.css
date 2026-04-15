@@ -1,0 +1,66 @@
+.header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#listdetails {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.image img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0px;
+}
+
+.video iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0px;
+}
+
+.tableau iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0px;
+}
+
+body {
+    margin: 0;
+}
+
+.navBar a {
+    background-color: lightgray;
+    justify-content: center;
+    display: flex;
+    color: black;
+    text-decoration: none;
+    padding: 20px 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navBar a:hover {
+    background-color: gray;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+
+h2 {
+    padding-left: 20px;
+}
+
+.hobbybody {
+    padding-bottom: 20px;
+}
+
+ul {
+    padding: 20px 20px;
+
+}
